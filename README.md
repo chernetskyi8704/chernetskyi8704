@@ -2,4 +2,6 @@
 
 I'm Dmytro from Ukraine, and I'm a beginner Front End developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chernetskyi8704)](https://github.com/anuraghazra/github-readme-stats)
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=chernetskyi8704&show_icons=true&theme=tokyonight' />
+
+<img align='right' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=chernetskyi8704&layout=compact' />
