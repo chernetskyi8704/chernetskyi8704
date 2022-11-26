@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Dmytro from Ukraine, and I'm a beginner Front End developer.
+### Hi there 👋. I'm Dmytro from Ukraine, and I'm a beginner Front End developer.
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=chernetskyi8704&show_icons=true&theme=tokyonight' />
 
